@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Full Stack Web Developer**
 - Masters in ** Management Information Systems**
 
-- I'm currently Pursing Master of Science in Information Systems
 
 - 📫 How to reach me **Makamdilip@outlook.com**
 
