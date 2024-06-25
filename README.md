@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makamdilip&label=Profile%20views&color=0e75b6&style=flat" alt="makamdilip" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
-- Masters in **Information Systems**
+- Masters in ** Management Information Systems**
 
 - I'm currently Pursing Master of Science in Information Systems
 
