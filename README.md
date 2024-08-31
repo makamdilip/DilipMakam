@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makamdilip&label=Profile%20views&color=0e75b6&style=flat" alt="makamdilip" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
-- Masters in **Management Information Systems**
+- 🌱 I’m currently looking for **Software Engineer**
+- Gradauted as Masters in **Management Information Systems**
 
 
 - 📫 How to reach me **Makamdilip@outlook.com**
